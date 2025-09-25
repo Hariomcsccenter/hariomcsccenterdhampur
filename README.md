@@ -1,2 +1,2 @@
-# hariomcsccenterdhampur
+# hariomcsccenter
 Service From Online
